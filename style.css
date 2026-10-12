@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:lightblue;
+    font-family: cursive;
+    text-align: center;
+    padding: 40px 20px;
+}
+.card{
+    background-color: #fef3c7;
+    max-width: 350px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 25px;
+    box-shadow: 0 5px 20px #0002;
+}
+h1{
+    color: darkblue;
+}
+h1:hover{
+    color: purple;
+}
+p{
+    color: #333333;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+button{
+    background-color: #16a34a;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #0f4423;
+}
